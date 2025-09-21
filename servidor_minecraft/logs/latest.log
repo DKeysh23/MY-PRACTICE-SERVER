@@ -44,3 +44,5 @@
 [21Sep2025 04:42:06.294] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [21Sep2025 04:42:14.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DKeysh23[/127.220.74.41:47237] logged in with entity id 197 at (180.17750200380044, 101.26440384429203, 123.58659680757083)
 [21Sep2025 04:42:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 joined the game
+[21Sep2025 06:38:48.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DKeysh23 lost connection: Disconnected
+[21Sep2025 06:38:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 left the game
