@@ -46,3 +46,5 @@
 [21Sep2025 04:42:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 joined the game
 [21Sep2025 06:38:48.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DKeysh23 lost connection: Disconnected
 [21Sep2025 06:38:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 left the game
+[21Sep2025 07:34:26.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DKeysh23[/127.220.74.41:55761] logged in with entity id 11861 at (197.92770518476115, 74.28656414515302, 149.51774306423735)
+[21Sep2025 07:34:26.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 joined the game
