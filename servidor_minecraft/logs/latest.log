@@ -48,3 +48,59 @@
 [21Sep2025 06:38:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 left the game
 [21Sep2025 07:34:26.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DKeysh23[/127.220.74.41:55761] logged in with entity id 11861 at (197.92770518476115, 74.28656414515302, 149.51774306423735)
 [21Sep2025 07:34:26.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 joined the game
+[21Sep2025 07:44:06.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JDaniel48[/127.209.96.31:59019] logged in with entity id 12829 at (120.5, 68.0, 103.5)
+[21Sep2025 07:44:06.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JDaniel48 joined the game
+[21Sep2025 07:44:09.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=119, y=67, z=105}
+[21Sep2025 07:44:10.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=120, y=67, z=105}
+[21Sep2025 07:44:16.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DKeysh23: Teleported DKeysh23 to JDaniel48]
+[21Sep2025 07:44:20.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=123, y=67, z=103}
+[21Sep2025 07:44:21.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=120, y=67, z=101}
+[21Sep2025 07:44:21.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=120, y=67, z=101}
+[21Sep2025 07:44:21.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=119, y=67, z=102}
+[21Sep2025 07:44:22.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=120, y=67, z=102}
+[21Sep2025 07:44:22.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=120, y=67, z=102}
+[21Sep2025 07:44:22.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=119, y=67, z=100}
+[21Sep2025 07:44:22.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=120, y=67, z=100}
+[21Sep2025 07:44:22.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=120, y=67, z=100}
+[21Sep2025 07:44:23.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=118, y=67, z=104}
+[21Sep2025 07:44:23.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=117, y=67, z=103}
+[21Sep2025 07:44:24.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=114, y=67, z=101}
+[21Sep2025 07:44:24.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=113, y=67, z=101}
+[21Sep2025 07:44:25.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=114, y=67, z=102}
+[21Sep2025 07:44:47.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JDaniel48 was slain by DKeysh23
+[21Sep2025 07:44:59.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DKeysh23: Made JDaniel48 a server operator]
+[21Sep2025 07:45:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DKeysh23: Set JDaniel48's game mode to Creative Mode]
+[21Sep2025 07:45:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DKeysh23: Teleported DKeysh23 to JDaniel48]
+[21Sep2025 07:47:24.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JDaniel48: Successfully filled 1188 block(s)]
+[21Sep2025 07:47:43.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JDaniel48: Successfully filled 18435 block(s)]
+[21Sep2025 07:48:10.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 has made the advancement [Monster Hunter]
+[21Sep2025 07:48:10.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[21Sep2025 07:48:15.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JDaniel48 moved too quickly! 9.473516386143388,-1.7884455110664277,4.752776458045915
+[21Sep2025 07:48:20.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JDaniel48 moved too quickly! 2.572353141697363,-9.750000387429992,0.6924493478478979
+[21Sep2025 07:48:34.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DKeysh23 moved too quickly! -0.8250800450462066,-10.324412911565986,-1.1372212256110572
+[21Sep2025 07:48:34.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JDaniel48 moved too quickly! -1.1816463380303048,10.125000402323778,-1.7676019248160344
+[21Sep2025 07:48:40.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DKeysh23 moved too quickly! -7.727272585131402,-6.386305533875387,-0.7680660829829691
+[21Sep2025 07:48:43.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JDaniel48 moved too quickly! 4.870270755393335,0.0,9.059723449645318
+[21Sep2025 07:48:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JDaniel48: Successfully filled 3053 block(s)]
+[21Sep2025 07:48:49.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DKeysh23 moved too quickly! 4.6383647845262885,6.784124262286696,5.849666445249966
+[21Sep2025 07:49:00.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JDaniel48 moved too quickly! 9.797920501283443,1.6090900473717653,1.3519623730079502
+[21Sep2025 07:49:04.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DKeysh23 moved too quickly! 3.5104982628386097,-6.937520841563526,-6.893704728784499
+[21Sep2025 07:49:04.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JDaniel48: Successfully filled 6082 block(s)]
+[21Sep2025 07:49:08.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JDaniel48: Successfully filled 3876 block(s)]
+[21Sep2025 07:49:11.896] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[21Sep2025 07:49:11.896] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21Sep2025 07:49:12.373] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 692c32d4-181e-462e-8e49-48af9dc11b8c
+[21Sep2025 07:49:12.380] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 003022f0-b13e-408e-bdd4-e996546443a0
+[21Sep2025 07:49:12.381] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/MY-PRACTICE-SERVER/servidor_minecraft/./crash-reports/crash-2025-09-21_07.49.12-server.txt
+[21Sep2025 07:49:15.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Sep2025 07:49:15.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Sep2025 07:49:15.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DKeysh23 lost connection: Server closed
+[21Sep2025 07:49:15.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DKeysh23 left the game
+[21Sep2025 07:49:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Sep2025 07:49:16.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Sep2025 07:49:17.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Sep2025 07:49:17.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Sep2025 07:49:17.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Sep2025 07:49:17.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Sep2025 07:49:17.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Sep2025 07:49:17.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
